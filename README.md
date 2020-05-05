@@ -6,7 +6,7 @@ as part of the Compiler Construction course. The entire question file [here.](me
 
 ## To run the translator
 Execute the 'translator' on an input from the 'inputs/' directory as `./translator < input1.txt`
-Disclaimer: it doesn't work perfectly the Write().
+Disclaimer: the grammar for 'Write' is flawed.
 <br/><br/>
 
 ## In case you'd like to work on the lex and yacc files, don't forget to compile them as follows
