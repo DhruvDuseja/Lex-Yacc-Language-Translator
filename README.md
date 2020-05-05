@@ -2,7 +2,7 @@
 
 My attempt at a language transalator to translate a custom language *C* to the equivalent C code
 as part of the Compiler Construction course. The entire question file [here.](media/Assignment.pdf)
-
+<br/>
 
 ## To run the translator
 Execute the 'translator' on an input from the 'inputs/' directory as `./translator < input1.txt`
