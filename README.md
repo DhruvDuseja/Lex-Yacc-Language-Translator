@@ -17,11 +17,11 @@ Disclaimer: it doesn't work perfectly the Write().
 
 ## Expected input and output
 
-# Input
+### Input
 
 ![input](media/c_custom.png)
 
 
-# Output
+### Output
 
 ![output](media/c_output.png)
