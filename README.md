@@ -20,7 +20,6 @@ Disclaimer: it doesn't work perfectly the Write().
 # Input
 
 ![input1](media/custom_1.png)
-
 ![input2](media/custom_2.png)
 
 
